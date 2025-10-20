@@ -1,5 +1,8 @@
 # CalTrackAI
 
+The primary objective of this project is to build an AI-powered system that can estimate the calorie and nutritional content of meals directly from food images. The system aims to reduce the burden of manual calorie logging and provide accurate nutritional breakdowns to support health monitoring and personalized diet planning.
+
+
 ```
 CalTrackAI/
 ├── data/
