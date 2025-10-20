@@ -1,0 +1,20 @@
+# Ignore large datasets
+data/raw/food-101/images/
+
+# Ignore system & cache files
+*.ipynb_checkpoints/
+__pycache__/
+.DS_Store
+.env
+
+# Ignore temporary model files
+*.h5
+*.pt
+*.pkl
+*.zip
+
+# Ignore large outputs
+data/interim/
+data/processed/
+logs/
+outputs/
