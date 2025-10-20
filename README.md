@@ -38,28 +38,3 @@ CalTrackAI/
 * **`requirements.txt`** → Lists dependencies to recreate the environment quickly.
 
 ---
-
-### Recommended .gitignore Content
-
-Add this snippet inside your `.gitignore` file before pushing to GitHub:
-
-```
-# Ignore large image data
-data/raw/food-101/images/
-
-# Ignore system files and cache
-*.ipynb_checkpoints/
-__pycache__/
-.DS_Store
-.env
-
-# Ignore temporary output files
-*.h5
-*.pt
-*.pkl
-*.zip
-```
-
----
-
-Would you like me to also give you a short **“Project Overview”** section to add above this (so your README starts with a summary + structure)? It will match your CalTrackAI report language.
