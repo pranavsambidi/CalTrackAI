@@ -2,7 +2,9 @@
 data/raw/food-101/images/
 
 # Ignore system & cache files
-*.ipynb_checkpoints/
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
 __pycache__/
 .DS_Store
 .env
