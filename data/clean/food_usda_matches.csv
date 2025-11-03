@@ -1,0 +1,86 @@
+Food101_Label,USDA_Match,Similarity
+apple_pie,apple pie,100.0
+baby_back_ribs,baby back ribs,100.0
+baklava,baklava,100.0
+beef_tartare,steak tartare,100.0
+beet_salad,beet salad,100.0
+beignets,beignet,93.33333333333333
+bread_pudding,bread pudding,100.0
+breakfast_burrito,breakfast burrito,100.0
+bruschetta,bruschetta,100.0
+caesar_salad,caesar salad,100.0
+cannoli,cannoli,100.0
+caprese_salad,caprese salad,100.0
+carrot_cake,carrot cake,100.0
+ceviche,ceviche,100.0
+cheese_plate,spanish cheese plate,75.0
+cheesecake,cheesecake,100.0
+chicken_curry,chicken curry,100.0
+chicken_quesadilla,chicken quesadilla,100.0
+chicken_wings,chicken wings,100.0
+chocolate_cake,chocolate cake,100.0
+chocolate_mousse,chocolate mousse,100.0
+churros,churros,100.0
+clam_chowder,clam chowder,100.0
+crab_cakes,crab cakes,100.0
+creme_brulee,creme brulee,100.0
+croque_madame,macaroni and cheese,71.42857142857143
+cup_cakes,cup cakes,100.0
+deviled_eggs,deviled eggs,100.0
+donuts,donuts,100.0
+dumplings,dumplings,100.0
+edamame,edamame,100.0
+eggs_benedict,egg benedict,96.0
+escargots,escargot,94.11764705882352
+falafel,falafel,100.0
+filet_mignon,filet mignon,100.0
+french_fries,french fries,100.0
+french_onion_soup,french onion soup,100.0
+french_toast,french toast,100.0
+fried_calamari,calamari fried,100.0
+fried_rice,fried rice,100.0
+frozen_yogurt,frozen yogurt,100.0
+garlic_bread,garlic bread,100.0
+gnocchi,gnocchi,100.0
+greek_salad,greek salad,100.0
+grilled_cheese_sandwich,grilled cheese sandwich,100.0
+grilled_salmon,grilled salmon,100.0
+guacamole,guacamole,100.0
+gyoza,dumplings,100.0
+hamburger,hamburger,100.0
+hot_and_sour_soup,soup hot and sour,100.0
+hot_dog,hot dog,100.0
+huevos_rancheros,huevos rancheros,100.0
+hummus,hummus,100.0
+ice_cream,ice cream,100.0
+lasagna,lasagna,100.0
+lobster_bisque,lobster bisque,100.0
+lobster_roll_sandwich,lobster salad,75.86206896551724
+macaroni_and_cheese,macaroni and cheese,100.0
+macarons,macarons,100.0
+miso_soup,miso soup,100.0
+mussels,mussels,100.0
+nachos,nachos nfs,75.0
+onion_rings,onion rings,100.0
+pad_thai,pad thai,100.0
+paella,paella,100.0
+pancakes,pancakes,100.0
+panna_cotta,gelato panna cotta,75.86206896551724
+peking_duck,duck peking,100.0
+pizza,pizza,100.0
+pulled_pork_sandwich,premium pulled pork sandwiches,80.0
+ramen,ramen,100.0
+ravioli,ravioli,100.0
+red_velvet_cake,red velvet cake,100.0
+risotto,risotto,100.0
+samosa,samosa,100.0
+sashimi,sashimi,100.0
+scallops,scallops,100.0
+seaweed_salad,seaweed salad,100.0
+shrimp_and_grits,shrimp and grits,100.0
+spaghetti_bolognese,spaghetti sauce with meat,88.88888888888889
+spaghetti_carbonara,creamy carbonara spaghetti,84.44444444444444
+steak,steak,100.0
+strawberry_shortcake,strawberry shortcake,100.0
+tiramisu,tiramisu,100.0
+waffles,waffles,100.0
