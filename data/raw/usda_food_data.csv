@@ -1,328 +1,346 @@
 query,fdcId,description,dataType,calories,protein,fat,carbohydrates
-apple pie,2288447,APPLE PIE,Branded,354.0,1.77,15.0,54.0
-baby back ribs,1457876,BABY BACK RIBS,Branded,170.0,18.8,9.82,0.0
-baby back ribs,2134922,"BABY BACK RIBS POTATO CHIPS, BABY BACK RIBS",Branded,536.0,7.14,32.1,57.1
-baklava,2708044,Baklava,Survey (FNDDS),440.0,6.58,29.34,37.55
-baklava,2218273,BAKLAVA,Branded,514.0,5.41,40.5,37.8
-beef carpaccio,2612998,TRUFFLE CARPACCIO,Branded,600.0,5.0,65.0,10.0
-beef carpaccio,2438370,SUMMER TRUFFLE CARPACCIO,Branded,91.0,,8.42,3.42
-beef carpaccio,2396653,"CARPACCIO STYLE PLANT-BASED DELI SLICES, CARPACCIO STYLE",Branded,221.0,29.2,8.33,8.33
-beef carpaccio,2398122,"VEGGIE CARPACCIO PLANT-BASED DELI SLICES, VEGGIE CARPACCIO",Branded,229.0,28.6,7.14,7.14
-beef carpaccio,2706371,Beef burgundy,Survey (FNDDS),148.0,18.48,6.0,4.19
-beef tartare,2706394,Steak tartare,Survey (FNDDS),216.0,17.45,15.6,0.34
-beef tartare,2710173,Tartar sauce,Survey (FNDDS),211.0,1.0,16.7,13.3
-beef tartare,175041,"Leavening agents, cream of tartar",SR Legacy,1080.0,0.0,0.0,61.5
-beef tartare,171826,"Sauce, tartar, ready-to-serve",SR Legacy,211.0,1.0,16.7,13.3
-beef tartare,170296,"Fast foods, fish sandwich, with tartar sauce",SR Legacy,257.0,10.3,12.4,26.7
-beet salad,1922885,BEET SALAD,Branded,93.0,1.32,5.29,11.0
-beet salad,2710071,"Beets, pickled",Survey (FNDDS),65.0,0.8,0.08,16.28
-beet salad,2709682,Beet juice,Survey (FNDDS),25.0,0.72,0.06,5.91
-beet salad,2685576,"Beets, raw",Foundation,,1.69,0.302,8.79
-beignets,2708071,Beignet,Survey (FNDDS),417.0,5.46,20.18,53.69
-beignets,2553070,"BEIGNET MIX, BEIGNET",Branded,375.0,12.5,0.0,75.0
-beignets,2289557,"BEIGNET MIX , FRENCH DOUGHNUTS",Branded,375.0,12.5,0.0,75.0
-beignets,1913013,CHOCOLATE HAZELNUT FILLED BEIGNET DONUTS,Branded,388.0,7.2,22.0,40.0
-beignets,2320752,"MINI APPLE FLAVORED BEIGNETS, MINI APPLE",Branded,400.0,6.0,20.0,48.0
-bibimbap,2708950,"Bibimbap, Korean",Survey (FNDDS),76.0,5.5,2.44,8.11
-bibimbap,2161341,"BIBIMBAP SPICY KOREAN GOCHUJANG SAUCE, BIBIMBAP",Branded,147.0,2.94,0.0,29.4
-bibimbap,2316070,"FRIED RICE, BIBIMBAP BEEF",Branded,170.0,5.45,4.17,28.2
-bibimbap,2464637,"BIBIMBAP WITH QUICK-PICKLED CARROTS, SESAME SAUCE & JASMINE RICE STARTER KIT, BIBIMBAP",Branded,154.0,9.19,5.56,16.0
-bibimbap,2035041,"ASSI, HOT PEPPER PASTE FOR BIBIMBAP",Branded,130.0,2.67,1.33,26.7
-bread pudding,2381798,BREAD PUDDING,Branded,222.0,4.04,4.55,42.4
-breakfast burrito,2315891,BREAKFAST BURRITO,Branded,198.0,8.13,7.77,26.2
-bruschetta,2707652,Bruschetta,Survey (FNDDS),171.0,4.29,7.61,21.32
-bruschetta,2025895,BRUSCHETTA,Branded,94.0,4.06,7.81,6.25
-caesar salad,1916135,CAESAR SALAD,Branded,190.0,4.0,16.0,8.0
-cannoli,1942720,CANNOLI,Branded,328.0,6.32,14.7,42.1
-cannoli,1997295,"CANNOLI DIP, CANNOLI",Branded,286.0,10.7,10.7,28.6
-cannoli,2539102,"CANNOLI 7 INCH CAKE, CANNOLI",Branded,450.0,6.25,31.2,51.2
-cannoli,2569651,"ITALIAN CANNOLI GELATO, ITALIAN CANNOLI",Branded,175.0,5.15,7.22,25.8
-caprese salad,1950083,CAPRESE SALAD,Branded,152.0,5.76,10.5,9.42
-caprese salad,2367375,"CAPRESE SALAD, CAPRESE",Branded,,4.23,7.98,5.16
-caprese salad,2367042,"CAPRESE SALADS, CAPRESE",Branded,159.0,4.95,8.48,15.2
-carrot cake,2078941,CARROT CAKE,Branded,424.0,2.35,25.9,47.1
-ceviche,2706463,Ceviche,Survey (FNDDS),63.0,10.53,0.76,3.58
-ceviche,1934741,CEVICHE,Branded,53.0,2.65,0.44,10.6
-ceviche,2434306,CEVICHE SALAD,Branded,60.0,3.0,2.0,8.0
-cheese plate,167671,"CRACKER BARREL, macaroni n' cheese plate, from kid's menu",SR Legacy,802.0,6.46,11.5,15.6
-cheese plate,174394,"Veal, breast, plate half, boneless, separable lean and fat, cooked, braised",SR Legacy,282.0,25.9,19.0,0.0
-cheese plate,2664310,SPANISH CHEESE PLATE,Branded,457.0,25.0,35.7,3.57
-cheese plate,171787,"Beef, plate, inside skirt steak, separable lean and fat, trimmed to 0"" fat, all grades, cooked, broiled",SR Legacy,220.0,26.1,12.0,0.0
-cheese plate,168744,"Beef, plate, inside skirt steak, separable lean only, trimmed to 0"" fat, all grades, cooked, broiled",SR Legacy,856.0,26.7,10.1,0.0
-cheesecake,1938600,CHEESECAKE,Branded,381.0,5.31,23.0,39.8
-chicken curry,2706437,Chicken curry,Survey (FNDDS),107.0,6.48,6.48,6.54
-chicken curry,2289446,CHICKEN CURRY,Branded,157.0,13.6,9.29,5.0
-chicken curry,2706438,Chicken curry with rice,Survey (FNDDS),116.0,4.96,4.0,15.12
-chicken curry,2706388,Beef curry,Survey (FNDDS),113.0,7.57,6.57,6.53
-chicken quesadilla,1940403,CHICKEN QUESADILLA,Branded,239.0,14.2,10.6,22.1
-chicken quesadilla,2708593,"Quesadilla, chicken",Survey (FNDDS),287.0,14.45,12.99,27.32
-chicken quesadilla,2708596,"Quesadilla, chicken, with vegetables",Survey (FNDDS),270.0,11.29,12.14,28.22
-chicken quesadilla,170765,"Fast foods, quesadilla, with chicken",SR Legacy,1230.0,15.0,15.2,24.0
-chicken wings,1906811,CHICKEN WINGS,Branded,283.0,18.6,18.6,0.0
-chocolate cake,2092208,CHOCOLATE CAKE,Branded,439.0,3.03,22.7,57.6
-chocolate cake,2707873,"Snack cake, chocolate",Survey (FNDDS),399.0,3.63,15.93,60.31
-chocolate mousse,1863369,CHOCOLATE MOUSSE,Branded,269.0,1.19,23.8,19.0
-chocolate mousse,2705698,Mousse,Survey (FNDDS),212.0,4.2,15.12,16.23
-chocolate mousse,168777,"Desserts, mousse, chocolate, prepared-from-recipe",SR Legacy,225.0,4.14,16.0,16.1
-chocolate mousse,2706448,Fish timbale or mousse,Survey (FNDDS),149.0,10.08,10.95,1.96
-chocolate mousse,175015,"Pie, chocolate mousse, prepared from mix, no-bake type",SR Legacy,260.0,3.5,15.4,29.6
-churros,2708070,Churros,Survey (FNDDS),419.0,6.05,22.21,48.87
-churros,2580402,CHURROS,Branded,339.0,4.84,12.9,51.6
-churros,2133138,"CHURRO MUFFINS, CHURRO",Branded,383.0,2.13,14.9,59.6
-churros,2630530,"CHURRO PUFF, CHURRO",Branded,350.0,42.5,6.25,35.0
-clam chowder,1916483,CLAM CHOWDER,Branded,118.0,3.67,8.57,6.53
-club sandwich,2706995,Club sandwich on wheat,Survey (FNDDS),220.0,15.98,7.65,21.38
-club sandwich,2706993,Club sandwich on white,Survey (FNDDS),222.0,15.08,7.48,23.09
-club sandwich,2706996,"Club sandwich on wheat, with cheese",Survey (FNDDS),239.0,16.58,10.5,19.13
-club sandwich,2706994,"Club sandwich on white, with cheese",Survey (FNDDS),241.0,15.81,10.35,20.62
-club sandwich,2706997,"Club sandwich or sub, restaurant",Survey (FNDDS),234.0,15.99,10.55,18.43
-crab cakes,2381781,CRAB CAKES,Branded,239.0,14.2,16.8,7.08
-creme brulee,2705684,Creme brulee,Survey (FNDDS),113.0,4.06,2.83,17.85
-creme brulee,2510347,CREME BRULEE,Branded,210.0,3.0,13.0,
-creme brulee,2159376,"CREME BRULEE ALMONDS, CREME BRULEE",Branded,559.0,17.6,38.2,38.2
-croque madame,2439059,"MADAME GOUGOUSSE, INSTANT OATS",Branded,375.0,15.0,7.5,70.0
-croque madame,2019884,"MADAME GOUGOUSSE, TOTAL SEASONING",Branded,0.0,0.0,0.0,50.0
-croque madame,2037313,"MADAME GOUGOUSSE, DRIED PIGEON PEAS",Branded,350.0,20.0,1.25,60.0
-croque madame,2174773,"CBD 225 MG FULL SPECTRUM HEMP OIL RAW DARK CHOCOLATE BAR, MADAME, MADAME",Branded,500.0,7.14,50.0,35.7
-croque madame,401962,"MADAM PUM, INSTANT RED CURRY WITH COCONUT MILK",Branded,207.0,0.0,20.0,6.67
-cup cakes,2029186,CUP CAKES,Branded,356.0,2.22,13.3,60.0
-cup cakes,2707875,"Cake, fruit cake",Survey (FNDDS),324.0,2.9,9.1,61.6
-cup cakes,2708165,Popcorn cake,Survey (FNDDS),384.0,9.7,3.1,80.1
-cup cakes,2707872,"Cake, cream",Survey (FNDDS),286.0,3.84,17.03,30.02
-cup cakes,2708162,Rice cake,Survey (FNDDS),392.0,7.1,4.3,81.1
-deviled eggs,2094667,DEVILED EGGS,Branded,286.0,10.7,25.0,0.0
-deviled eggs,2707181,"Egg, deviled",Survey (FNDDS),198.0,11.52,15.9,1.07
-deviled eggs,2179815,"DEVILED EGG POTATO SALAD, DEVILED EGG",Branded,221.0,4.29,15.7,15.7
-donuts,2055870,DONUTS,Branded,404.0,3.51,17.5,61.4
-donuts,2179244,"DONUT STICKS, DONUT",Branded,449.0,2.56,23.1,57.7
-dumplings,1871606,DUMPLINGS,Branded,145.0,9.21,1.97,23.7
-dumplings,2708344,"Dumpling, no meat",Survey (FNDDS),125.0,3.45,3.37,20.49
-dumplings,2706543,Chicken or turkey with dumplings,Survey (FNDDS),144.0,15.69,5.55,8.04
-dumplings,168042,"Stew, dumpling with mutton (Navajo)",SR Legacy,101.0,8.71,3.78,8.03
-dumplings,2708705,"Wonton, dumpling or pot sticker, fried",Survey (FNDDS),192.0,8.76,11.13,14.05
-edamame,2550119,EDAMAME,Branded,106.0,11.8,4.71,7.06
-eggs benedict,2707180,"Egg, Benedict",Survey (FNDDS),288.0,13.81,22.1,8.48
-eggs benedict,747997,"Eggs, Grade A, Large, egg white",Foundation,55.0,10.7,0.0,2.36
-eggs benedict,748967,"Eggs, Grade A, Large, egg whole",Foundation,617.0,12.4,9.96,0.96
-eggs benedict,748236,"Eggs, Grade A, Large, egg yolk",Foundation,1400.0,16.2,28.8,1.02
-eggs benedict,2707179,"Egg, creamed",Survey (FNDDS),148.0,7.79,10.35,5.52
-escargots,2706368,Escargot,Survey (FNDDS),158.0,19.99,6.91,2.48
-escargots,1901593,ESCARGOT SNAILS,Branded,85.0,17.0,0.85,1.69
-escargots,1860629,ESCARGOTS SNAILS,Branded,85.0,17.0,0.85,1.69
-escargots,528250,ESCARGOTS WITH GARLIC BUTTER,Branded,365.0,8.5,35.0,3.5
-escargots,2052972,"FRUITS DE MER, ESCARGOT",Branded,82.0,16.1,1.4,2.0
-falafel,2707408,Falafel,Survey (FNDDS),514.0,8.28,41.19,28.96
-falafel,2187951,FALAFEL,Branded,129.0,3.57,8.21,12.5
-filet mignon,2068002,FILET MIGNON,Branded,196.0,15.2,15.2,0.0
-filet mignon,1804306,BEEF FILET MIGNON,Branded,141.0,20.0,5.88,0.0
-filet mignon,2272585,"BEEF FILET MIGNON, BEEF",Branded,133.0,21.2,5.31,0.0
-filet mignon,2099381,BACON WRAPPED FILET MIGNON BITES,Branded,317.0,15.0,28.3,0.0
-filet mignon,2100588,"BACON WRAPPED FILET MIGNON, BACON",Branded,316.0,20.2,25.3,2.53
-fish and chips,174195,"Fish, fish sticks, frozen, prepared",SR Legacy,1160.0,11.0,16.2,21.7
-fish and chips,171606,Fish broth,SR Legacy,67.0,2.0,0.6,0.4
-fish and chips,2706460,Fish curry,Survey (FNDDS),93.0,4.94,5.42,6.65
-fish and chips,2706457,Fish sauce,Survey (FNDDS),35.0,5.06,0.01,3.64
-fish and chips,2706232,"Fish, anchovy",Survey (FNDDS),210.0,28.89,9.71,0.0
-foie gras,1972302,"DUCK FOIE GRAS MOUSSE, DUCK FOIE GRAS",Branded,357.0,8.93,35.7,3.57
-foie gras,171100,"Pate de foie gras, canned (goose liver pate), smoked",SR Legacy,462.0,11.4,43.8,4.67
-foie gras,2020467,BLOCK OF DUCK FOIE GRAS,Branded,393.0,7.14,39.3,3.57
-foie gras,483134,DUCK FOIE GRAS MOUSSE WITH PORT WINE,Branded,453.0,7.55,47.2,1.89
-foie gras,2615796,DUCK FOIE GRAS & GRAPES DUCK MOUSSE,Branded,321.0,10.7,26.8,7.14
-french fries,2093015,FRENCH FRIES,Branded,179.0,2.38,8.33,22.6
-french fries,169009,"APPLEBEE'S, french fries",SR Legacy,1210.0,3.31,13.2,39.5
-french fries,167672,"DENNY'S, french fries",SR Legacy,282.0,3.41,14.1,35.2
-french fries,170721,"McDONALD'S, french fries",SR Legacy,323.0,3.41,15.5,42.6
-french fries,170726,"WENDY'S, french fries",SR Legacy,301.0,3.73,14.1,39.7
-french onion soup,461428,FRENCH ONION SOUP,Branded,70.0,4.21,3.51,6.32
-french onion soup,2710108,"Soup, French onion",Survey (FNDDS),108.0,5.45,4.47,11.84
-french toast,2659364,FRENCH TOAST,Branded,175.0,7.02,3.51,28.1
-french toast,2708338,French toast sticks,Survey (FNDDS),278.0,7.52,9.18,40.62
-french toast,2708332,"French toast, frozen",Survey (FNDDS),183.0,7.24,3.82,29.89
-french toast,2708331,"French toast, NFS",Survey (FNDDS),273.0,10.36,11.38,32.34
-fried calamari,2706334,"Calamari, fried",Survey (FNDDS),234.0,13.76,13.22,14.06
-fried calamari,2706333,"Calamari, cooked",Survey (FNDDS),155.0,19.36,6.25,3.83
-fried calamari,2368666,FRIED CALAMARI RINGS,Branded,272.0,8.77,15.8,26.3
-fried calamari,2706341,"Clams, fried",Survey (FNDDS),230.0,13.07,12.9,14.43
-fried calamari,2706347,"Crayfish, fried",Survey (FNDDS),223.0,14.06,12.89,11.72
-fried rice,1917356,FRIED RICE,Branded,183.0,3.33,5.0,31.7
-frozen yogurt,563602,FROZEN YOGURT,Branded,177.0,3.12,8.33,21.9
-frozen yogurt,2705456,Frozen yogurt sandwich,Survey (FNDDS),204.0,3.9,6.25,34.38
-frozen yogurt,2705453,"Frozen yogurt, chocolate",Survey (FNDDS),131.0,3.0,3.6,21.6
-frozen yogurt,2705451,"Frozen yogurt, NFS",Survey (FNDDS),127.0,3.0,3.6,21.6
-garlic bread,2633956,GARLIC BREAD,Branded,298.0,7.02,15.8,43.9
-gnocchi,2083591,GNOCCHI,Branded,150.0,3.33,0.0,33.3
-greek salad,1931800,GREEK SALAD,Branded,66.0,1.88,4.7,4.08
-greek salad,2709830,"Greek Salad, no dressing",Survey (FNDDS),48.0,2.75,2.26,4.35
-greek salad,2710195,"Salad dressing, NFS, for salads",Survey (FNDDS),430.0,1.32,44.54,5.9
-grilled cheese sandwich,2132988,GRILLED CHEESE SANDWICH,Branded,288.0,11.5,12.8,31.4
-grilled cheese sandwich,2705801,"Grilled cheese sandwich, NFS",Survey (FNDDS),343.0,11.03,20.78,28.09
-grilled cheese sandwich,2705804,"Grilled cheese sandwich, cheddar cheese, on white bread",Survey (FNDDS),368.0,13.38,23.26,26.38
-grilled cheese sandwich,2705805,"Grilled cheese sandwich, cheddar cheese, on wheat bread",Survey (FNDDS),366.0,14.4,23.46,24.42
-grilled salmon,1928614,GRILLED SALMON,Branded,103.0,18.1,3.45,0.86
-grilled salmon,2706287,"Fish, salmon, grilled",Survey (FNDDS),259.0,25.92,16.48,0.0
-guacamole,2036598,GUACAMOLE,Branded,150.0,3.33,13.3,10.0
-gyoza,2297219,"GYOZA DIPPING SAUCE, GYOZA",Branded,133.0,3.33,0.0,33.3
-gyoza,1913714,GYOZA SHRIMP,Branded,151.0,5.56,3.97,24.6
-gyoza,2090338,GYOZA DUMPLINGS WITH CHICKEN,Branded,188.0,8.72,4.7,26.8
-gyoza,2029977,"MANDARIN, GYOZA WRAPS",Branded,281.0,6.25,0.0,59.4
-hamburger,2113853,HAMBURGER,Branded,212.0,3.53,3.53,41.2
-hamburger,2706924,Hamburger (McDonalds),Survey (FNDDS),263.0,13.3,10.18,29.57
-hot and sour soup,2707136,"Soup, hot and sour",Survey (FNDDS),39.0,2.58,1.21,4.35
-hot and sour soup,174808,"Soup, hot and sour, Chinese restaurant",SR Legacy,162.0,2.58,1.21,4.35
-hot and sour soup,2620759,"HOT & SOUR SOUP, HOT & SOUR",Branded,45.0,0.82,1.63,7.35
-hot and sour soup,2029468,"HOT & SOUR SOUP MIX, HOT & SOUR",Branded,360.0,12.0,4.0,68.0
-hot and sour soup,2534220,"HOT & SOUR SOUP WITH PORK, HOT & SOUR WITH PORK",Branded,24.0,0.97,0.61,2.92
-hot dog,2089505,HOT DOG,Branded,211.0,19.3,14.0,1.75
-hot dog,2707470,"Hot dog, vegetarian",Survey (FNDDS),233.0,19.61,13.73,7.7
-hot dog,2706167,"Hot dog, beef",Survey (FNDDS),310.0,11.7,28.0,2.89
-hot dog,2706166,"Hot dog, NFS",Survey (FNDDS),310.0,11.7,28.0,2.89
-hot dog,2706170,"Hot dog, turkey",Survey (FNDDS),223.0,12.23,17.29,3.81
-huevos rancheros,2707191,Huevos rancheros,Survey (FNDDS),121.0,6.68,6.65,8.85
-huevos rancheros,1900339,HUEVOS RANCHEROS,Branded,477.0,36.4,25.0,25.0
-huevos rancheros,2470438,"HUEVOS RANCHEROS POCKETS, HUEVOS RANCHEROS",Branded,205.0,7.14,7.14,29.5
-huevos rancheros,1936849,"HUEVOS RANCHEROS BREAKFAST BOWL, HUEVOS RANCHEROS",Branded,105.0,6.14,1.97,16.2
-huevos rancheros,1682240,"MILD HUEVOS RANCHEROS OMELET BOWL, MILD, HUEVOS RANCHEROS",Branded,136.0,8.08,5.56,13.6
-hummus,1886359,HUMMUS,Branded,321.0,7.14,28.6,21.4
-ice cream,2100807,ICE CREAM,Branded,200.0,3.08,10.8,24.6
-lasagna,2586090,LASAGNA,Branded,101.0,5.53,4.15,10.1
-lobster bisque,1859121,LOBSTER BISQUE,Branded,147.0,2.86,12.2,6.53
-lobster roll sandwich,2706349,Lobster,Survey (FNDDS),97.0,20.91,0.95,0.0
-lobster roll sandwich,2707141,Lobster gumbo,Survey (FNDDS),59.0,6.19,1.78,4.63
-lobster roll sandwich,2706825,Lobster salad,Survey (FNDDS),187.0,10.29,15.4,1.22
-lobster roll sandwich,2270118,"LOBSTER ROLLS, LOBSTER",Branded,271.0,7.29,7.29,43.8
-lobster roll sandwich,2706455,Shrimp with lobster sauce,Survey (FNDDS),151.0,16.78,7.85,2.16
-macaroni and cheese,2618433,MACARONI AND CHEESE,Branded,102.0,3.4,3.4,14.3
-macarons,577342,MACARONS,Branded,467.0,10.0,23.3,53.3
-macarons,2497962,"STRAWBERRY MACARON CEREAL, STRAWBERRY MACARON",Branded,359.0,5.13,2.56,87.2
-macarons,2177626,FRENCH MACARONS,Branded,,6.82,18.2,59.1
-miso soup,2147271,MISO SOUP,Branded,26.0,1.92,0.8,2.08
-miso soup,2707455,"Soup, miso or tofu",Survey (FNDDS),24.0,2.21,0.85,2.3
-miso soup,2707439,Miso,Survey (FNDDS),198.0,12.79,6.01,25.37
-mussels,2706350,Mussels,Survey (FNDDS),109.0,15.06,2.84,4.67
-mussels,2430436,MUSSELS,Branded,82.0,14.1,2.35,0.0
-nachos,2708580,"Nachos, chicken",Survey (FNDDS),242.0,11.2,13.33,19.87
-nachos,2708576,"Nachos, NFS",Survey (FNDDS),265.0,7.6,15.85,23.85
-nachos,2708582,"Nachos, with beans",Survey (FNDDS),210.0,4.62,11.37,23.28
-nachos,2708578,"Nachos, beef or pork",Survey (FNDDS),265.0,10.73,15.96,19.87
-nachos,2708577,"Nachos, cheese only",Survey (FNDDS),266.0,4.46,15.74,27.83
-omelette,2504183,"SHAKSHUKA OMELETTE SAUCE, SHAKSHUKA OMELETTE",Branded,56.0,1.6,0.8,11.2
-omelette,2068685,SPINACH & MUSHROOM OMELETTE STARTER,Branded,24.0,2.35,0.0,4.71
-omelette,1886962,"TRADITIONAL POTATO AND EGG PIE SPANISH OMELETTES, ORIGINAL",Branded,120.0,4.0,8.0,8.0
-omelette,2019482,"CEDARLANE, GARDEN VEGETABLE & MOZZARELLA EGG WHITE OMELETTE",Branded,101.0,10.1,3.52,7.05
-omelette,2315345,"EGG WHITE OMELETTE, GREEN CHILE, CHEESE & RANCHERO SAUCE",Branded,100.0,7.47,4.15,8.71
-onion rings,2072639,ONION RINGS,Branded,235.0,2.35,11.8,28.2
-oysters,2708747,Dressing with oysters,Survey (FNDDS),189.0,4.95,10.75,18.4
-oysters,2708160,"Crackers, oyster",Survey (FNDDS),418.0,9.46,8.64,74.05
-oysters,1999627,"Mushroom, oyster",Foundation,,2.9,0.188,6.94
-oysters,2707150,Oyster sauce,Survey (FNDDS),51.0,1.35,0.25,10.92
-oysters,2706849,Oysters Rockefeller,Survey (FNDDS),134.0,7.64,7.53,9.38
-pad thai,2630139,PAD THAI,Branded,155.0,4.0,4.0,26.0
-pad thai,2708806,Pad Thai with chicken,Survey (FNDDS),154.0,8.13,7.5,14.36
-pad thai,2708808,Pad Thai with meat,Survey (FNDDS),160.0,8.18,7.92,14.73
-pad thai,2708807,Pad Thai with seafood,Survey (FNDDS),147.0,6.84,6.82,15.05
-paella,2036540,PAELLA,Branded,422.0,13.3,3.33,82.2
-paella,2706711,Paella with seafood,Survey (FNDDS),143.0,8.03,4.76,16.44
-paella,2706723,"Paella, NFS",Survey (FNDDS),169.0,9.53,7.17,15.77
-paella,2708973,"Seafood paella, Puerto Rican style",Survey (FNDDS),146.0,7.59,5.64,15.7
-paella,2034632,"PAELLA RICE MIX, PAELLA",Branded,368.0,7.89,2.63,76.3
-pancakes,1912627,PANCAKES,Branded,274.0,6.45,2.42,53.2
-pancakes,2708343,Chinese pancake,Survey (FNDDS),207.0,4.05,0.38,45.38
-pancakes,2710273,Pancake syrup,Survey (FNDDS),265.0,0.0,0.1,69.6
-pancakes,2708308,"Pancakes, chocolate",Survey (FNDDS),341.0,7.68,15.94,41.18
-panna cotta,2059670,"GELATO, PANNA COTTA",Branded,220.0,3.0,10.0,30.0
-panna cotta,2073786,"ARTISAN GELATO, PANNA COTTA, CRUNCHY PECANS",Branded,209.0,4.48,10.4,26.9
-panna cotta,2289908,"RASPBERRY PANNA COTTA SMOOTH PANNA COTTA FLAVORED ICE CREAM BARS WITH RIBBONS OF RASPBERRY SAUCE, COVERED WITH WHITE CHOCOLATE COATING AND RASPBERRIES PIECES, RASPBERRY PANNA COTTA",Branded,371.0,4.29,25.7,31.4
-panna cotta,1125249,"BERRY PANNA COTTA FROZEN DAIRY DESSERT, BERRY",Branded,328.0,2.99,20.9,31.3
-panna cotta,2139257,CARAMEL PANNA COTTA FLAN TRADITIONAL ITALIAN DESSERT TOPPED WITH A LIGHT COATING OF CARAMEL,Branded,240.0,3.0,14.0,25.0
-peking duck,2706141,"Duck, Peking",Survey (FNDDS),154.0,5.32,11.76,6.47
-peking duck,2284808,PEKING DUCK SAUCE,Branded,273.0,0.0,0.0,66.7
-peking duck,2028744,PEKING VEGETARIAN ROAST DUCK,Branded,98.0,12.9,3.53,3.53
-peking duck,2710298,Duck sauce,Survey (FNDDS),245.0,0.36,0.13,60.66
-peking duck,2707176,"Duck egg, cooked",Survey (FNDDS),224.0,11.96,18.55,1.36
-pho,2707124,"Soup, pho, with meat",Survey (FNDDS),77.0,5.81,3.33,5.6
-pho,2707125,"Soup, pho, no meat",Survey (FNDDS),37.0,1.42,0.93,5.9
-pho,2664127,"PHO BROTH, PHO",Branded,10.0,0.0,0.0,2.04
-pho,2667996,"PHO BROTH BOMB, PHO",Branded,33.0,0.0,0.0,6.67
-pizza,2036440,PIZZA,Branded,238.0,6.8,8.84,32.0
-pork chop,2705872,"Pork, chop, stuffed",Survey (FNDDS),190.0,18.37,9.04,7.82
-pork chop,2727575,"Pork, chop, center cut, raw",Foundation,,22.8,5.48,-0.562
-pork chop,2705867,"Pork, chop, lean and fat eaten",Survey (FNDDS),195.0,26.97,9.17,0.01
-pork chop,2705868,"Pork, chop, lean only eaten",Survey (FNDDS),171.0,28.03,5.94,0.0
-pork chop,2705866,"Pork, chop, NS as to fat eaten",Survey (FNDDS),183.0,27.5,7.55,0.0
-poutine,2669381,"POUTINE MACARONI AND CHEESE, POUTINE",Branded,379.0,10.3,6.9,69.0
-poutine,2631798,POUTINE POPPERS,Branded,288.0,11.2,18.8,20.0
-poutine,2321634,"CRISPY POUTINE CHEESE CURDS, SHREDDED POTATO AND GRAVY IN A CRISPY BREADING BITES, CRISPY POUTINE",Branded,325.0,10.0,20.0,26.2
-prime rib,2413850,"PRIME RIB RUB, PRIME RIB",Branded,0.0,0.0,0.0,0.0
-prime rib,2326789,"PRIME RIB SEASONING, PRIME RIB",Branded,0.0,0.0,0.0,0.0
-pulled pork sandwich,173344,Pulled pork in barbecue sauce,SR Legacy,168.0,13.2,4.42,18.7
-pulled pork sandwich,2706977,Pork sandwich,Survey (FNDDS),226.0,17.73,5.47,25.45
-pulled pork sandwich,2706978,"Pork sandwich, with cheese",Survey (FNDDS),246.0,18.14,8.99,22.32
-pulled pork sandwich,174583,"Sandwich spread, pork, beef",SR Legacy,983.0,7.66,17.3,11.9
-pulled pork sandwich,2090206,PREMIUM PULLED PORK SANDWICHES,Branded,188.0,10.9,1.56,33.6
-ramen,1919078,RAMEN,Branded,327.0,12.7,2.73,63.6
-ramen,2709154,Ramen bowl with beef,Survey (FNDDS),137.0,6.81,5.19,15.4
-ramen,2709155,Ramen bowl with chicken,Survey (FNDDS),126.0,7.04,3.86,15.4
-ramen,2709156,Ramen bowl with fish,Survey (FNDDS),112.0,5.78,2.87,15.4
-ramen,2709153,"Ramen bowl, NFS",Survey (FNDDS),127.0,7.13,4.57,13.95
-ravioli,457410,RAVIOLI,Branded,213.0,12.1,7.09,23.4
-red velvet cake,2441277,RED VELVET CAKE,Branded,312.0,31.2,9.38,43.8
-risotto,777970,RISOTTO,Branded,157.0,12.9,1.43,109.0
-risotto,2667760,"RISOTTO CHEESE, RISOTTO",Branded,375.0,8.75,6.25,71.2
-risotto,2161720,"ASPARAGUS RISOTTO CREAMY CHEESE RISOTTO WITH ASPARAGUS, ASPARAGUS RISOTTO",Branded,107.0,2.86,3.21,17.1
-risotto,2502248,"CHEESE RISOTTO RICE, CHEESE RISOTTO",Branded,179.0,3.33,4.17,31.7
-risotto,2025378,"MUSHROOM RISOTTO BOWLS, MUSHROOM RISOTTO",Branded,86.0,2.6,2.6,13.0
-samosa,2708730,Samosa,Survey (FNDDS),310.0,5.14,17.47,33.16
-samosa,2673169,"INDIAN SAMOSA WRAP, INDIAN SAMOSA",Branded,190.0,5.63,8.45,22.5
-samosa,2140575,"SAMOSA SEASONED WHOLE BLENDS, SAMOSA",Branded,153.0,11.8,7.06,9.41
-samosa,2077754,"BURRITO, SAMOSA",Branded,146.0,4.55,1.52,27.8
-samosa,1893443,COCKTAIL SAMOSA,Branded,286.0,7.14,14.3,35.7
-sashimi,2196025,SASHIMI,Branded,102.0,19.7,0.34,4.08
-sashimi,2270642,"9PC SASHIMI ALBACORE, SASHIMI",Branded,76.0,13.4,0.87,2.33
-sashimi,2448296,"9PC SASHIMI SALMON, SASHIMI",Branded,110.0,9.88,6.4,2.33
-sashimi,1967984,"9PC SASHIMI TUNA, SASHIMI",Branded,64.0,12.2,0.29,2.33
-sashimi,2522477,RAW SASHIMI,Branded,129.0,15.6,4.76,4.08
-scallops,2384290,SCALLOPS,Branded,89.0,15.2,0.89,2.68
-scallops,2706359,"Scallops, fried",Survey (FNDDS),217.0,11.08,12.54,14.14
-scallops,2706357,"Scallops, grilled",Survey (FNDDS),108.0,15.3,2.89,4.04
-seaweed salad,1935825,SEAWEED SALAD,Branded,125.0,0.0,5.36,28.6
-seaweed salad,2709988,"Seaweed, dried",Survey (FNDDS),298.0,31.84,4.01,52.39
-shrimp and grits,2509825,SHRIMP AND GRITS,Branded,126.0,8.38,7.33,7.85
-shrimp and grits,2708363,"Grits, NFS",Survey (FNDDS),71.0,1.19,1.84,12.2
-shrimp and grits,2403433,"SHRIMP & GRITS MIX, SHRIMP & GRITS",Branded,321.0,7.14,0.0,75.0
-shrimp and grits,2432742,SHRIMP & GRITS,Branded,350.0,7.5,3.75,72.5
-spaghetti bolognese,2601287,"SPAGHETTI BOLOGNESE ITALIAN RECIPE SPAGHETTI WITH BEEF BOLOGNESE SAUCE, SPAGHETTI BOLOGNESE",Branded,112.0,6.09,6.6,7.61
-spaghetti bolognese,2145004,"VEGAN SPAGHETTI BOLOGNESE PLANT BASED NOODLES, VEGAN SPAGHETTI BOLOGNESE",Branded,32.0,0.71,1.07,5.0
-spaghetti bolognese,2340645,"SPAGHETTI BOLOGNESE SPAGHETTI PASTA IN RICHY FLAVORED MARINARA MEAT SAUCE, SPAGHETTI BOLOGNESE",Branded,138.0,5.59,0.74,26.2
-spaghetti bolognese,2709745,Spaghetti sauce,Survey (FNDDS),51.0,1.41,1.48,8.05
-spaghetti bolognese,2157756,"SPAGHETTI WITH BEEFY ITALIAN BOLOGNESE SAUCE, SPAGHETTI WITH BEEFY",Branded,125.0,4.18,3.86,18.3
-spaghetti carbonara,356547,CREAMY CARBONARA SPAGHETTI,Branded,400.0,18.0,10.0,58.0
-spaghetti carbonara,169845,"DENNY'S, spaghetti and meatballs",SR Legacy,170.0,7.84,8.52,15.5
-spaghetti carbonara,2706470,Spaghetti sauce with meat,Survey (FNDDS),90.0,5.94,4.36,6.54
-spaghetti carbonara,2706422,Spaghetti sauce with poultry,Survey (FNDDS),75.0,6.29,2.62,6.54
-spring rolls,2375659,"SPRING ROLL COMBO, SPRING ROLL",Branded,135.0,3.71,1.11,27.1
-spring rolls,2707782,"Roll, multigrain",Survey (FNDDS),263.0,9.6,6.0,44.6
-spring rolls,168889,"Wheat, hard red spring",SR Legacy,329.0,15.4,1.92,68.0
-spring rolls,2708701,"Egg roll, with shrimp",Survey (FNDDS),258.0,6.68,13.61,27.12
-spring rolls,2708686,Pizza rolls,Survey (FNDDS),345.0,9.19,10.5,53.39
-steak,2157166,STEAK,Branded,556.0,0.0,0.0,111.0
-steak,2706747,Pepper steak,Survey (FNDDS),145.0,11.88,9.12,4.34
-steak,2709752,Steak sauce,Survey (FNDDS),95.0,1.25,0.23,22.04
-steak,2706387,Steak teriyaki,Survey (FNDDS),198.0,28.86,8.25,1.94
-strawberry shortcake,957717,STRAWBERRY SHORTCAKE,Branded,274.0,2.96,13.3,31.1
-strawberry shortcake,2707896,"Cake, strawberry shortcake",Survey (FNDDS),214.0,3.31,4.73,40.09
-strawberry shortcake,2484272,"STRAWBERRY SHORTCAKE BARS, STRAWBERRY SHORTCAKE",Branded,266.0,3.12,12.5,35.9
-strawberry shortcake,2548656,"STRAWBERRY SHORTCAKE COOKIES, STRAWBERRY SHORTCAKE",Branded,500.0,7.14,17.9,71.4
-strawberry shortcake,2138191,"STRAWBERRY SHORTCAKE CUPCAKES, STRAWBERRY SHORTCAKE",Branded,380.0,1.41,18.3,52.1
-sushi,2708959,"Sushi, NFS",Survey (FNDDS),94.0,2.92,0.67,18.39
-sushi,2708972,"Sushi, topped with egg",Survey (FNDDS),119.0,7.32,5.23,10.25
-sushi,2708961,"Sushi roll, California",Survey (FNDDS),94.0,2.92,0.67,18.39
-sushi,2708971,"Sushi, topped with tuna",Survey (FNDDS),100.0,9.66,0.29,13.39
-sushi,2708965,Sushi roll tuna,Survey (FNDDS),97.0,7.4,0.26,15.3
-tacos,170736,"TACO BELL, Taco Salad",SR Legacy,710.0,6.69,9.17,15.1
-tacos,170733,"TACO BELL, Soft Taco with steak",SR Legacy,225.0,11.8,12.1,17.2
-tacos,2709740,Taco sauce,Survey (FNDDS),11.0,1.16,0.68,0.72
-tacos,2708529,"Taco, fish",Survey (FNDDS),275.0,11.62,15.29,22.99
-tacos,2708514,"Taco, NFS",Survey (FNDDS),246.0,15.31,13.56,15.62
-tiramisu,2705702,Tiramisu,Survey (FNDDS),353.0,5.65,23.86,29.44
-tiramisu,2677409,TIRAMISU,Branded,235.0,3.53,11.8,29.4
-waffles,2093968,WAFFLES,Branded,300.0,2.86,10.0,48.6
+apple pie,2288447.0,APPLE PIE,Branded,354.0,1.77,15.0,54.0
+baby back ribs,1457876.0,BABY BACK RIBS,Branded,170.0,18.8,9.82,0.0
+baby back ribs,2134922.0,"BABY BACK RIBS POTATO CHIPS, BABY BACK RIBS",Branded,536.0,7.14,32.1,57.1
+baklava,2708044.0,Baklava,Survey (FNDDS),440.0,6.58,29.34,37.55
+baklava,2218273.0,BAKLAVA,Branded,514.0,5.41,40.5,37.8
+beef carpaccio,2612998.0,TRUFFLE CARPACCIO,Branded,600.0,5.0,65.0,10.0
+beef carpaccio,2438370.0,SUMMER TRUFFLE CARPACCIO,Branded,91.0,,8.42,3.42
+beef carpaccio,2396653.0,"CARPACCIO STYLE PLANT-BASED DELI SLICES, CARPACCIO STYLE",Branded,221.0,29.2,8.33,8.33
+beef carpaccio,2398122.0,"VEGGIE CARPACCIO PLANT-BASED DELI SLICES, VEGGIE CARPACCIO",Branded,229.0,28.6,7.14,7.14
+beef carpaccio,2706371.0,Beef burgundy,Survey (FNDDS),148.0,18.48,6.0,4.19
+beef tartare,2706394.0,Steak tartare,Survey (FNDDS),216.0,17.45,15.6,0.34
+beef tartare,2710173.0,Tartar sauce,Survey (FNDDS),211.0,1.0,16.7,13.3
+beef tartare,175041.0,"Leavening agents, cream of tartar",SR Legacy,1080.0,0.0,0.0,61.5
+beef tartare,171826.0,"Sauce, tartar, ready-to-serve",SR Legacy,211.0,1.0,16.7,13.3
+beef tartare,170296.0,"Fast foods, fish sandwich, with tartar sauce",SR Legacy,257.0,10.3,12.4,26.7
+beet salad,1922885.0,BEET SALAD,Branded,93.0,1.32,5.29,11.0
+beet salad,2710071.0,"Beets, pickled",Survey (FNDDS),65.0,0.8,0.08,16.28
+beet salad,2709682.0,Beet juice,Survey (FNDDS),25.0,0.72,0.06,5.91
+beet salad,2685576.0,"Beets, raw",Foundation,,1.69,0.302,8.79
+beignets,2708071.0,Beignet,Survey (FNDDS),417.0,5.46,20.18,53.69
+beignets,2553070.0,"BEIGNET MIX, BEIGNET",Branded,375.0,12.5,0.0,75.0
+beignets,2289557.0,"BEIGNET MIX , FRENCH DOUGHNUTS",Branded,375.0,12.5,0.0,75.0
+beignets,1913013.0,CHOCOLATE HAZELNUT FILLED BEIGNET DONUTS,Branded,388.0,7.2,22.0,40.0
+beignets,2320752.0,"MINI APPLE FLAVORED BEIGNETS, MINI APPLE",Branded,400.0,6.0,20.0,48.0
+bibimbap,2708950.0,"Bibimbap, Korean",Survey (FNDDS),76.0,5.5,2.44,8.11
+bibimbap,2161341.0,"BIBIMBAP SPICY KOREAN GOCHUJANG SAUCE, BIBIMBAP",Branded,147.0,2.94,0.0,29.4
+bibimbap,2316070.0,"FRIED RICE, BIBIMBAP BEEF",Branded,170.0,5.45,4.17,28.2
+bibimbap,2464637.0,"BIBIMBAP WITH QUICK-PICKLED CARROTS, SESAME SAUCE & JASMINE RICE STARTER KIT, BIBIMBAP",Branded,154.0,9.19,5.56,16.0
+bibimbap,2035041.0,"ASSI, HOT PEPPER PASTE FOR BIBIMBAP",Branded,130.0,2.67,1.33,26.7
+bread pudding,2381798.0,BREAD PUDDING,Branded,222.0,4.04,4.55,42.4
+breakfast burrito,2315891.0,BREAKFAST BURRITO,Branded,198.0,8.13,7.77,26.2
+bruschetta,2707652.0,Bruschetta,Survey (FNDDS),171.0,4.29,7.61,21.32
+bruschetta,2025895.0,BRUSCHETTA,Branded,94.0,4.06,7.81,6.25
+caesar salad,1916135.0,CAESAR SALAD,Branded,190.0,4.0,16.0,8.0
+cannoli,1942720.0,CANNOLI,Branded,328.0,6.32,14.7,42.1
+cannoli,1997295.0,"CANNOLI DIP, CANNOLI",Branded,286.0,10.7,10.7,28.6
+cannoli,2539102.0,"CANNOLI 7 INCH CAKE, CANNOLI",Branded,450.0,6.25,31.2,51.2
+cannoli,2569651.0,"ITALIAN CANNOLI GELATO, ITALIAN CANNOLI",Branded,175.0,5.15,7.22,25.8
+caprese salad,1950083.0,CAPRESE SALAD,Branded,152.0,5.76,10.5,9.42
+caprese salad,2367375.0,"CAPRESE SALAD, CAPRESE",Branded,,4.23,7.98,5.16
+caprese salad,2367042.0,"CAPRESE SALADS, CAPRESE",Branded,159.0,4.95,8.48,15.2
+carrot cake,2078941.0,CARROT CAKE,Branded,424.0,2.35,25.9,47.1
+ceviche,2706463.0,Ceviche,Survey (FNDDS),63.0,10.53,0.76,3.58
+ceviche,1934741.0,CEVICHE,Branded,53.0,2.65,0.44,10.6
+ceviche,2434306.0,CEVICHE SALAD,Branded,60.0,3.0,2.0,8.0
+cheese plate,167671.0,"CRACKER BARREL, macaroni n' cheese plate, from kid's menu",SR Legacy,802.0,6.46,11.5,15.6
+cheese plate,174394.0,"Veal, breast, plate half, boneless, separable lean and fat, cooked, braised",SR Legacy,282.0,25.9,19.0,0.0
+cheese plate,2664310.0,SPANISH CHEESE PLATE,Branded,457.0,25.0,35.7,3.57
+cheese plate,171787.0,"Beef, plate, inside skirt steak, separable lean and fat, trimmed to 0"" fat, all grades, cooked, broiled",SR Legacy,220.0,26.1,12.0,0.0
+cheese plate,168744.0,"Beef, plate, inside skirt steak, separable lean only, trimmed to 0"" fat, all grades, cooked, broiled",SR Legacy,856.0,26.7,10.1,0.0
+cheesecake,1938600.0,CHEESECAKE,Branded,381.0,5.31,23.0,39.8
+chicken curry,2706437.0,Chicken curry,Survey (FNDDS),107.0,6.48,6.48,6.54
+chicken curry,2289446.0,CHICKEN CURRY,Branded,157.0,13.6,9.29,5.0
+chicken curry,2706438.0,Chicken curry with rice,Survey (FNDDS),116.0,4.96,4.0,15.12
+chicken curry,2706388.0,Beef curry,Survey (FNDDS),113.0,7.57,6.57,6.53
+chicken quesadilla,1940403.0,CHICKEN QUESADILLA,Branded,239.0,14.2,10.6,22.1
+chicken quesadilla,2708593.0,"Quesadilla, chicken",Survey (FNDDS),287.0,14.45,12.99,27.32
+chicken quesadilla,2708596.0,"Quesadilla, chicken, with vegetables",Survey (FNDDS),270.0,11.29,12.14,28.22
+chicken quesadilla,170765.0,"Fast foods, quesadilla, with chicken",SR Legacy,1230.0,15.0,15.2,24.0
+chicken wings,1906811.0,CHICKEN WINGS,Branded,283.0,18.6,18.6,0.0
+chocolate cake,2092208.0,CHOCOLATE CAKE,Branded,439.0,3.03,22.7,57.6
+chocolate cake,2707873.0,"Snack cake, chocolate",Survey (FNDDS),399.0,3.63,15.93,60.31
+chocolate mousse,1863369.0,CHOCOLATE MOUSSE,Branded,269.0,1.19,23.8,19.0
+chocolate mousse,2705698.0,Mousse,Survey (FNDDS),212.0,4.2,15.12,16.23
+chocolate mousse,168777.0,"Desserts, mousse, chocolate, prepared-from-recipe",SR Legacy,225.0,4.14,16.0,16.1
+chocolate mousse,2706448.0,Fish timbale or mousse,Survey (FNDDS),149.0,10.08,10.95,1.96
+chocolate mousse,175015.0,"Pie, chocolate mousse, prepared from mix, no-bake type",SR Legacy,260.0,3.5,15.4,29.6
+churros,2708070.0,Churros,Survey (FNDDS),419.0,6.05,22.21,48.87
+churros,2580402.0,CHURROS,Branded,339.0,4.84,12.9,51.6
+churros,2133138.0,"CHURRO MUFFINS, CHURRO",Branded,383.0,2.13,14.9,59.6
+churros,2630530.0,"CHURRO PUFF, CHURRO",Branded,350.0,42.5,6.25,35.0
+clam chowder,1916483.0,CLAM CHOWDER,Branded,118.0,3.67,8.57,6.53
+club sandwich,2706995.0,Club sandwich on wheat,Survey (FNDDS),220.0,15.98,7.65,21.38
+club sandwich,2706993.0,Club sandwich on white,Survey (FNDDS),222.0,15.08,7.48,23.09
+club sandwich,2706996.0,"Club sandwich on wheat, with cheese",Survey (FNDDS),239.0,16.58,10.5,19.13
+club sandwich,2706994.0,"Club sandwich on white, with cheese",Survey (FNDDS),241.0,15.81,10.35,20.62
+club sandwich,2706997.0,"Club sandwich or sub, restaurant",Survey (FNDDS),234.0,15.99,10.55,18.43
+crab cakes,2381781.0,CRAB CAKES,Branded,239.0,14.2,16.8,7.08
+creme brulee,2705684.0,Creme brulee,Survey (FNDDS),113.0,4.06,2.83,17.85
+creme brulee,2510347.0,CREME BRULEE,Branded,210.0,3.0,13.0,
+creme brulee,2159376.0,"CREME BRULEE ALMONDS, CREME BRULEE",Branded,559.0,17.6,38.2,38.2
+croque madame,2439059.0,"MADAME GOUGOUSSE, INSTANT OATS",Branded,375.0,15.0,7.5,70.0
+croque madame,2019884.0,"MADAME GOUGOUSSE, TOTAL SEASONING",Branded,0.0,0.0,0.0,50.0
+croque madame,2037313.0,"MADAME GOUGOUSSE, DRIED PIGEON PEAS",Branded,350.0,20.0,1.25,60.0
+croque madame,2174773.0,"CBD 225 MG FULL SPECTRUM HEMP OIL RAW DARK CHOCOLATE BAR, MADAME, MADAME",Branded,500.0,7.14,50.0,35.7
+croque madame,401962.0,"MADAM PUM, INSTANT RED CURRY WITH COCONUT MILK",Branded,207.0,0.0,20.0,6.67
+cup cakes,2029186.0,CUP CAKES,Branded,356.0,2.22,13.3,60.0
+cup cakes,2707875.0,"Cake, fruit cake",Survey (FNDDS),324.0,2.9,9.1,61.6
+cup cakes,2708165.0,Popcorn cake,Survey (FNDDS),384.0,9.7,3.1,80.1
+cup cakes,2707872.0,"Cake, cream",Survey (FNDDS),286.0,3.84,17.03,30.02
+cup cakes,2708162.0,Rice cake,Survey (FNDDS),392.0,7.1,4.3,81.1
+deviled eggs,2094667.0,DEVILED EGGS,Branded,286.0,10.7,25.0,0.0
+deviled eggs,2707181.0,"Egg, deviled",Survey (FNDDS),198.0,11.52,15.9,1.07
+deviled eggs,2179815.0,"DEVILED EGG POTATO SALAD, DEVILED EGG",Branded,221.0,4.29,15.7,15.7
+donuts,2055870.0,DONUTS,Branded,404.0,3.51,17.5,61.4
+donuts,2179244.0,"DONUT STICKS, DONUT",Branded,449.0,2.56,23.1,57.7
+dumplings,1871606.0,DUMPLINGS,Branded,145.0,9.21,1.97,23.7
+dumplings,2708344.0,"Dumpling, no meat",Survey (FNDDS),125.0,3.45,3.37,20.49
+dumplings,2706543.0,Chicken or turkey with dumplings,Survey (FNDDS),144.0,15.69,5.55,8.04
+dumplings,168042.0,"Stew, dumpling with mutton (Navajo)",SR Legacy,101.0,8.71,3.78,8.03
+dumplings,2708705.0,"Wonton, dumpling or pot sticker, fried",Survey (FNDDS),192.0,8.76,11.13,14.05
+edamame,2550119.0,EDAMAME,Branded,106.0,11.8,4.71,7.06
+eggs benedict,2707180.0,"Egg, Benedict",Survey (FNDDS),288.0,13.81,22.1,8.48
+eggs benedict,747997.0,"Eggs, Grade A, Large, egg white",Foundation,55.0,10.7,0.0,2.36
+eggs benedict,748967.0,"Eggs, Grade A, Large, egg whole",Foundation,617.0,12.4,9.96,0.96
+eggs benedict,748236.0,"Eggs, Grade A, Large, egg yolk",Foundation,1400.0,16.2,28.8,1.02
+eggs benedict,2707179.0,"Egg, creamed",Survey (FNDDS),148.0,7.79,10.35,5.52
+escargots,2706368.0,Escargot,Survey (FNDDS),158.0,19.99,6.91,2.48
+escargots,1901593.0,ESCARGOT SNAILS,Branded,85.0,17.0,0.85,1.69
+escargots,1860629.0,ESCARGOTS SNAILS,Branded,85.0,17.0,0.85,1.69
+escargots,528250.0,ESCARGOTS WITH GARLIC BUTTER,Branded,365.0,8.5,35.0,3.5
+escargots,2052972.0,"FRUITS DE MER, ESCARGOT",Branded,82.0,16.1,1.4,2.0
+falafel,2707408.0,Falafel,Survey (FNDDS),514.0,8.28,41.19,28.96
+falafel,2187951.0,FALAFEL,Branded,129.0,3.57,8.21,12.5
+filet mignon,2068002.0,FILET MIGNON,Branded,196.0,15.2,15.2,0.0
+filet mignon,1804306.0,BEEF FILET MIGNON,Branded,141.0,20.0,5.88,0.0
+filet mignon,2272585.0,"BEEF FILET MIGNON, BEEF",Branded,133.0,21.2,5.31,0.0
+filet mignon,2099381.0,BACON WRAPPED FILET MIGNON BITES,Branded,317.0,15.0,28.3,0.0
+filet mignon,2100588.0,"BACON WRAPPED FILET MIGNON, BACON",Branded,316.0,20.2,25.3,2.53
+fish and chips,174195.0,"Fish, fish sticks, frozen, prepared",SR Legacy,1160.0,11.0,16.2,21.7
+fish and chips,171606.0,Fish broth,SR Legacy,67.0,2.0,0.6,0.4
+fish and chips,2706460.0,Fish curry,Survey (FNDDS),93.0,4.94,5.42,6.65
+fish and chips,2706457.0,Fish sauce,Survey (FNDDS),35.0,5.06,0.01,3.64
+fish and chips,2706232.0,"Fish, anchovy",Survey (FNDDS),210.0,28.89,9.71,0.0
+foie gras,1972302.0,"DUCK FOIE GRAS MOUSSE, DUCK FOIE GRAS",Branded,357.0,8.93,35.7,3.57
+foie gras,171100.0,"Pate de foie gras, canned (goose liver pate), smoked",SR Legacy,462.0,11.4,43.8,4.67
+foie gras,2020467.0,BLOCK OF DUCK FOIE GRAS,Branded,393.0,7.14,39.3,3.57
+foie gras,483134.0,DUCK FOIE GRAS MOUSSE WITH PORT WINE,Branded,453.0,7.55,47.2,1.89
+foie gras,2615796.0,DUCK FOIE GRAS & GRAPES DUCK MOUSSE,Branded,321.0,10.7,26.8,7.14
+french fries,2093015.0,FRENCH FRIES,Branded,179.0,2.38,8.33,22.6
+french fries,169009.0,"APPLEBEE'S, french fries",SR Legacy,1210.0,3.31,13.2,39.5
+french fries,167672.0,"DENNY'S, french fries",SR Legacy,282.0,3.41,14.1,35.2
+french fries,170721.0,"McDONALD'S, french fries",SR Legacy,323.0,3.41,15.5,42.6
+french fries,170726.0,"WENDY'S, french fries",SR Legacy,301.0,3.73,14.1,39.7
+french onion soup,461428.0,FRENCH ONION SOUP,Branded,70.0,4.21,3.51,6.32
+french onion soup,2710108.0,"Soup, French onion",Survey (FNDDS),108.0,5.45,4.47,11.84
+french toast,2659364.0,FRENCH TOAST,Branded,175.0,7.02,3.51,28.1
+french toast,2708338.0,French toast sticks,Survey (FNDDS),278.0,7.52,9.18,40.62
+french toast,2708332.0,"French toast, frozen",Survey (FNDDS),183.0,7.24,3.82,29.89
+french toast,2708331.0,"French toast, NFS",Survey (FNDDS),273.0,10.36,11.38,32.34
+fried calamari,2706334.0,"Calamari, fried",Survey (FNDDS),234.0,13.76,13.22,14.06
+fried calamari,2706333.0,"Calamari, cooked",Survey (FNDDS),155.0,19.36,6.25,3.83
+fried calamari,2368666.0,FRIED CALAMARI RINGS,Branded,272.0,8.77,15.8,26.3
+fried calamari,2706341.0,"Clams, fried",Survey (FNDDS),230.0,13.07,12.9,14.43
+fried calamari,2706347.0,"Crayfish, fried",Survey (FNDDS),223.0,14.06,12.89,11.72
+fried rice,1917356.0,FRIED RICE,Branded,183.0,3.33,5.0,31.7
+frozen yogurt,563602.0,FROZEN YOGURT,Branded,177.0,3.12,8.33,21.9
+frozen yogurt,2705456.0,Frozen yogurt sandwich,Survey (FNDDS),204.0,3.9,6.25,34.38
+frozen yogurt,2705453.0,"Frozen yogurt, chocolate",Survey (FNDDS),131.0,3.0,3.6,21.6
+frozen yogurt,2705451.0,"Frozen yogurt, NFS",Survey (FNDDS),127.0,3.0,3.6,21.6
+garlic bread,2633956.0,GARLIC BREAD,Branded,298.0,7.02,15.8,43.9
+gnocchi,2083591.0,GNOCCHI,Branded,150.0,3.33,0.0,33.3
+greek salad,1931800.0,GREEK SALAD,Branded,66.0,1.88,4.7,4.08
+greek salad,2709830.0,"Greek Salad, no dressing",Survey (FNDDS),48.0,2.75,2.26,4.35
+greek salad,2710195.0,"Salad dressing, NFS, for salads",Survey (FNDDS),430.0,1.32,44.54,5.9
+grilled cheese sandwich,2132988.0,GRILLED CHEESE SANDWICH,Branded,288.0,11.5,12.8,31.4
+grilled cheese sandwich,2705801.0,"Grilled cheese sandwich, NFS",Survey (FNDDS),343.0,11.03,20.78,28.09
+grilled cheese sandwich,2705804.0,"Grilled cheese sandwich, cheddar cheese, on white bread",Survey (FNDDS),368.0,13.38,23.26,26.38
+grilled cheese sandwich,2705805.0,"Grilled cheese sandwich, cheddar cheese, on wheat bread",Survey (FNDDS),366.0,14.4,23.46,24.42
+grilled salmon,1928614.0,GRILLED SALMON,Branded,103.0,18.1,3.45,0.86
+grilled salmon,2706287.0,"Fish, salmon, grilled",Survey (FNDDS),259.0,25.92,16.48,0.0
+guacamole,2036598.0,GUACAMOLE,Branded,150.0,3.33,13.3,10.0
+gyoza,2297219.0,"GYOZA DIPPING SAUCE, GYOZA",Branded,133.0,3.33,0.0,33.3
+gyoza,1913714.0,GYOZA SHRIMP,Branded,151.0,5.56,3.97,24.6
+gyoza,2090338.0,GYOZA DUMPLINGS WITH CHICKEN,Branded,188.0,8.72,4.7,26.8
+gyoza,2029977.0,"MANDARIN, GYOZA WRAPS",Branded,281.0,6.25,0.0,59.4
+hamburger,2113853.0,HAMBURGER,Branded,212.0,3.53,3.53,41.2
+hamburger,2706924.0,Hamburger (McDonalds),Survey (FNDDS),263.0,13.3,10.18,29.57
+hot and sour soup,2707136.0,"Soup, hot and sour",Survey (FNDDS),39.0,2.58,1.21,4.35
+hot and sour soup,174808.0,"Soup, hot and sour, Chinese restaurant",SR Legacy,162.0,2.58,1.21,4.35
+hot and sour soup,2620759.0,"HOT & SOUR SOUP, HOT & SOUR",Branded,45.0,0.82,1.63,7.35
+hot and sour soup,2029468.0,"HOT & SOUR SOUP MIX, HOT & SOUR",Branded,360.0,12.0,4.0,68.0
+hot and sour soup,2534220.0,"HOT & SOUR SOUP WITH PORK, HOT & SOUR WITH PORK",Branded,24.0,0.97,0.61,2.92
+hot dog,2089505.0,HOT DOG,Branded,211.0,19.3,14.0,1.75
+hot dog,2707470.0,"Hot dog, vegetarian",Survey (FNDDS),233.0,19.61,13.73,7.7
+hot dog,2706167.0,"Hot dog, beef",Survey (FNDDS),310.0,11.7,28.0,2.89
+hot dog,2706166.0,"Hot dog, NFS",Survey (FNDDS),310.0,11.7,28.0,2.89
+hot dog,2706170.0,"Hot dog, turkey",Survey (FNDDS),223.0,12.23,17.29,3.81
+huevos rancheros,2707191.0,Huevos rancheros,Survey (FNDDS),121.0,6.68,6.65,8.85
+huevos rancheros,1900339.0,HUEVOS RANCHEROS,Branded,477.0,36.4,25.0,25.0
+huevos rancheros,2470438.0,"HUEVOS RANCHEROS POCKETS, HUEVOS RANCHEROS",Branded,205.0,7.14,7.14,29.5
+huevos rancheros,1936849.0,"HUEVOS RANCHEROS BREAKFAST BOWL, HUEVOS RANCHEROS",Branded,105.0,6.14,1.97,16.2
+huevos rancheros,1682240.0,"MILD HUEVOS RANCHEROS OMELET BOWL, MILD, HUEVOS RANCHEROS",Branded,136.0,8.08,5.56,13.6
+hummus,1886359.0,HUMMUS,Branded,321.0,7.14,28.6,21.4
+ice cream,2100807.0,ICE CREAM,Branded,200.0,3.08,10.8,24.6
+lasagna,2586090.0,LASAGNA,Branded,101.0,5.53,4.15,10.1
+lobster bisque,1859121.0,LOBSTER BISQUE,Branded,147.0,2.86,12.2,6.53
+lobster roll sandwich,2706349.0,Lobster,Survey (FNDDS),97.0,20.91,0.95,0.0
+lobster roll sandwich,2707141.0,Lobster gumbo,Survey (FNDDS),59.0,6.19,1.78,4.63
+lobster roll sandwich,2706825.0,Lobster salad,Survey (FNDDS),187.0,10.29,15.4,1.22
+lobster roll sandwich,2270118.0,"LOBSTER ROLLS, LOBSTER",Branded,271.0,7.29,7.29,43.8
+lobster roll sandwich,2706455.0,Shrimp with lobster sauce,Survey (FNDDS),151.0,16.78,7.85,2.16
+macaroni and cheese,2618433.0,MACARONI AND CHEESE,Branded,102.0,3.4,3.4,14.3
+macarons,577342.0,MACARONS,Branded,467.0,10.0,23.3,53.3
+macarons,2497962.0,"STRAWBERRY MACARON CEREAL, STRAWBERRY MACARON",Branded,359.0,5.13,2.56,87.2
+macarons,2177626.0,FRENCH MACARONS,Branded,,6.82,18.2,59.1
+miso soup,2147271.0,MISO SOUP,Branded,26.0,1.92,0.8,2.08
+miso soup,2707455.0,"Soup, miso or tofu",Survey (FNDDS),24.0,2.21,0.85,2.3
+miso soup,2707439.0,Miso,Survey (FNDDS),198.0,12.79,6.01,25.37
+mussels,2706350.0,Mussels,Survey (FNDDS),109.0,15.06,2.84,4.67
+mussels,2430436.0,MUSSELS,Branded,82.0,14.1,2.35,0.0
+nachos,2708580.0,"Nachos, chicken",Survey (FNDDS),242.0,11.2,13.33,19.87
+nachos,2708576.0,"Nachos, NFS",Survey (FNDDS),265.0,7.6,15.85,23.85
+nachos,2708582.0,"Nachos, with beans",Survey (FNDDS),210.0,4.62,11.37,23.28
+nachos,2708578.0,"Nachos, beef or pork",Survey (FNDDS),265.0,10.73,15.96,19.87
+nachos,2708577.0,"Nachos, cheese only",Survey (FNDDS),266.0,4.46,15.74,27.83
+omelette,2504183.0,"SHAKSHUKA OMELETTE SAUCE, SHAKSHUKA OMELETTE",Branded,56.0,1.6,0.8,11.2
+omelette,2068685.0,SPINACH & MUSHROOM OMELETTE STARTER,Branded,24.0,2.35,0.0,4.71
+omelette,1886962.0,"TRADITIONAL POTATO AND EGG PIE SPANISH OMELETTES, ORIGINAL",Branded,120.0,4.0,8.0,8.0
+omelette,2019482.0,"CEDARLANE, GARDEN VEGETABLE & MOZZARELLA EGG WHITE OMELETTE",Branded,101.0,10.1,3.52,7.05
+omelette,2315345.0,"EGG WHITE OMELETTE, GREEN CHILE, CHEESE & RANCHERO SAUCE",Branded,100.0,7.47,4.15,8.71
+onion rings,2072639.0,ONION RINGS,Branded,235.0,2.35,11.8,28.2
+oysters,2708747.0,Dressing with oysters,Survey (FNDDS),189.0,4.95,10.75,18.4
+oysters,2708160.0,"Crackers, oyster",Survey (FNDDS),418.0,9.46,8.64,74.05
+oysters,1999627.0,"Mushroom, oyster",Foundation,,2.9,0.188,6.94
+oysters,2707150.0,Oyster sauce,Survey (FNDDS),51.0,1.35,0.25,10.92
+oysters,2706849.0,Oysters Rockefeller,Survey (FNDDS),134.0,7.64,7.53,9.38
+pad thai,2630139.0,PAD THAI,Branded,155.0,4.0,4.0,26.0
+pad thai,2708806.0,Pad Thai with chicken,Survey (FNDDS),154.0,8.13,7.5,14.36
+pad thai,2708808.0,Pad Thai with meat,Survey (FNDDS),160.0,8.18,7.92,14.73
+pad thai,2708807.0,Pad Thai with seafood,Survey (FNDDS),147.0,6.84,6.82,15.05
+paella,2036540.0,PAELLA,Branded,422.0,13.3,3.33,82.2
+paella,2706711.0,Paella with seafood,Survey (FNDDS),143.0,8.03,4.76,16.44
+paella,2706723.0,"Paella, NFS",Survey (FNDDS),169.0,9.53,7.17,15.77
+paella,2708973.0,"Seafood paella, Puerto Rican style",Survey (FNDDS),146.0,7.59,5.64,15.7
+paella,2034632.0,"PAELLA RICE MIX, PAELLA",Branded,368.0,7.89,2.63,76.3
+pancakes,1912627.0,PANCAKES,Branded,274.0,6.45,2.42,53.2
+pancakes,2708343.0,Chinese pancake,Survey (FNDDS),207.0,4.05,0.38,45.38
+pancakes,2710273.0,Pancake syrup,Survey (FNDDS),265.0,0.0,0.1,69.6
+pancakes,2708308.0,"Pancakes, chocolate",Survey (FNDDS),341.0,7.68,15.94,41.18
+panna cotta,2059670.0,"GELATO, PANNA COTTA",Branded,220.0,3.0,10.0,30.0
+panna cotta,2073786.0,"ARTISAN GELATO, PANNA COTTA, CRUNCHY PECANS",Branded,209.0,4.48,10.4,26.9
+panna cotta,2289908.0,"RASPBERRY PANNA COTTA SMOOTH PANNA COTTA FLAVORED ICE CREAM BARS WITH RIBBONS OF RASPBERRY SAUCE, COVERED WITH WHITE CHOCOLATE COATING AND RASPBERRIES PIECES, RASPBERRY PANNA COTTA",Branded,371.0,4.29,25.7,31.4
+panna cotta,1125249.0,"BERRY PANNA COTTA FROZEN DAIRY DESSERT, BERRY",Branded,328.0,2.99,20.9,31.3
+panna cotta,2139257.0,CARAMEL PANNA COTTA FLAN TRADITIONAL ITALIAN DESSERT TOPPED WITH A LIGHT COATING OF CARAMEL,Branded,240.0,3.0,14.0,25.0
+peking duck,2706141.0,"Duck, Peking",Survey (FNDDS),154.0,5.32,11.76,6.47
+peking duck,2284808.0,PEKING DUCK SAUCE,Branded,273.0,0.0,0.0,66.7
+peking duck,2028744.0,PEKING VEGETARIAN ROAST DUCK,Branded,98.0,12.9,3.53,3.53
+peking duck,2710298.0,Duck sauce,Survey (FNDDS),245.0,0.36,0.13,60.66
+peking duck,2707176.0,"Duck egg, cooked",Survey (FNDDS),224.0,11.96,18.55,1.36
+pho,2707124.0,"Soup, pho, with meat",Survey (FNDDS),77.0,5.81,3.33,5.6
+pho,2707125.0,"Soup, pho, no meat",Survey (FNDDS),37.0,1.42,0.93,5.9
+pho,2664127.0,"PHO BROTH, PHO",Branded,10.0,0.0,0.0,2.04
+pho,2667996.0,"PHO BROTH BOMB, PHO",Branded,33.0,0.0,0.0,6.67
+pizza,2036440.0,PIZZA,Branded,238.0,6.8,8.84,32.0
+pork chop,2705872.0,"Pork, chop, stuffed",Survey (FNDDS),190.0,18.37,9.04,7.82
+pork chop,2727575.0,"Pork, chop, center cut, raw",Foundation,,22.8,5.48,-0.562
+pork chop,2705867.0,"Pork, chop, lean and fat eaten",Survey (FNDDS),195.0,26.97,9.17,0.01
+pork chop,2705868.0,"Pork, chop, lean only eaten",Survey (FNDDS),171.0,28.03,5.94,0.0
+pork chop,2705866.0,"Pork, chop, NS as to fat eaten",Survey (FNDDS),183.0,27.5,7.55,0.0
+poutine,2669381.0,"POUTINE MACARONI AND CHEESE, POUTINE",Branded,379.0,10.3,6.9,69.0
+poutine,2631798.0,POUTINE POPPERS,Branded,288.0,11.2,18.8,20.0
+poutine,2321634.0,"CRISPY POUTINE CHEESE CURDS, SHREDDED POTATO AND GRAVY IN A CRISPY BREADING BITES, CRISPY POUTINE",Branded,325.0,10.0,20.0,26.2
+prime rib,2413850.0,"PRIME RIB RUB, PRIME RIB",Branded,0.0,0.0,0.0,0.0
+prime rib,2326789.0,"PRIME RIB SEASONING, PRIME RIB",Branded,0.0,0.0,0.0,0.0
+pulled pork sandwich,173344.0,Pulled pork in barbecue sauce,SR Legacy,168.0,13.2,4.42,18.7
+pulled pork sandwich,2706977.0,Pork sandwich,Survey (FNDDS),226.0,17.73,5.47,25.45
+pulled pork sandwich,2706978.0,"Pork sandwich, with cheese",Survey (FNDDS),246.0,18.14,8.99,22.32
+pulled pork sandwich,174583.0,"Sandwich spread, pork, beef",SR Legacy,983.0,7.66,17.3,11.9
+pulled pork sandwich,2090206.0,PREMIUM PULLED PORK SANDWICHES,Branded,188.0,10.9,1.56,33.6
+ramen,1919078.0,RAMEN,Branded,327.0,12.7,2.73,63.6
+ramen,2709154.0,Ramen bowl with beef,Survey (FNDDS),137.0,6.81,5.19,15.4
+ramen,2709155.0,Ramen bowl with chicken,Survey (FNDDS),126.0,7.04,3.86,15.4
+ramen,2709156.0,Ramen bowl with fish,Survey (FNDDS),112.0,5.78,2.87,15.4
+ramen,2709153.0,"Ramen bowl, NFS",Survey (FNDDS),127.0,7.13,4.57,13.95
+ravioli,457410.0,RAVIOLI,Branded,213.0,12.1,7.09,23.4
+red velvet cake,2441277.0,RED VELVET CAKE,Branded,312.0,31.2,9.38,43.8
+risotto,777970.0,RISOTTO,Branded,157.0,12.9,1.43,109.0
+risotto,2667760.0,"RISOTTO CHEESE, RISOTTO",Branded,375.0,8.75,6.25,71.2
+risotto,2161720.0,"ASPARAGUS RISOTTO CREAMY CHEESE RISOTTO WITH ASPARAGUS, ASPARAGUS RISOTTO",Branded,107.0,2.86,3.21,17.1
+risotto,2502248.0,"CHEESE RISOTTO RICE, CHEESE RISOTTO",Branded,179.0,3.33,4.17,31.7
+risotto,2025378.0,"MUSHROOM RISOTTO BOWLS, MUSHROOM RISOTTO",Branded,86.0,2.6,2.6,13.0
+samosa,2708730.0,Samosa,Survey (FNDDS),310.0,5.14,17.47,33.16
+samosa,2673169.0,"INDIAN SAMOSA WRAP, INDIAN SAMOSA",Branded,190.0,5.63,8.45,22.5
+samosa,2140575.0,"SAMOSA SEASONED WHOLE BLENDS, SAMOSA",Branded,153.0,11.8,7.06,9.41
+samosa,2077754.0,"BURRITO, SAMOSA",Branded,146.0,4.55,1.52,27.8
+samosa,1893443.0,COCKTAIL SAMOSA,Branded,286.0,7.14,14.3,35.7
+sashimi,2196025.0,SASHIMI,Branded,102.0,19.7,0.34,4.08
+sashimi,2270642.0,"9PC SASHIMI ALBACORE, SASHIMI",Branded,76.0,13.4,0.87,2.33
+sashimi,2448296.0,"9PC SASHIMI SALMON, SASHIMI",Branded,110.0,9.88,6.4,2.33
+sashimi,1967984.0,"9PC SASHIMI TUNA, SASHIMI",Branded,64.0,12.2,0.29,2.33
+sashimi,2522477.0,RAW SASHIMI,Branded,129.0,15.6,4.76,4.08
+scallops,2384290.0,SCALLOPS,Branded,89.0,15.2,0.89,2.68
+scallops,2706359.0,"Scallops, fried",Survey (FNDDS),217.0,11.08,12.54,14.14
+scallops,2706357.0,"Scallops, grilled",Survey (FNDDS),108.0,15.3,2.89,4.04
+seaweed salad,1935825.0,SEAWEED SALAD,Branded,125.0,0.0,5.36,28.6
+seaweed salad,2709988.0,"Seaweed, dried",Survey (FNDDS),298.0,31.84,4.01,52.39
+shrimp and grits,2509825.0,SHRIMP AND GRITS,Branded,126.0,8.38,7.33,7.85
+shrimp and grits,2708363.0,"Grits, NFS",Survey (FNDDS),71.0,1.19,1.84,12.2
+shrimp and grits,2403433.0,"SHRIMP & GRITS MIX, SHRIMP & GRITS",Branded,321.0,7.14,0.0,75.0
+shrimp and grits,2432742.0,SHRIMP & GRITS,Branded,350.0,7.5,3.75,72.5
+spaghetti bolognese,2601287.0,"SPAGHETTI BOLOGNESE ITALIAN RECIPE SPAGHETTI WITH BEEF BOLOGNESE SAUCE, SPAGHETTI BOLOGNESE",Branded,112.0,6.09,6.6,7.61
+spaghetti bolognese,2145004.0,"VEGAN SPAGHETTI BOLOGNESE PLANT BASED NOODLES, VEGAN SPAGHETTI BOLOGNESE",Branded,32.0,0.71,1.07,5.0
+spaghetti bolognese,2340645.0,"SPAGHETTI BOLOGNESE SPAGHETTI PASTA IN RICHY FLAVORED MARINARA MEAT SAUCE, SPAGHETTI BOLOGNESE",Branded,138.0,5.59,0.74,26.2
+spaghetti bolognese,2709745.0,Spaghetti sauce,Survey (FNDDS),51.0,1.41,1.48,8.05
+spaghetti bolognese,2157756.0,"SPAGHETTI WITH BEEFY ITALIAN BOLOGNESE SAUCE, SPAGHETTI WITH BEEFY",Branded,125.0,4.18,3.86,18.3
+spaghetti carbonara,356547.0,CREAMY CARBONARA SPAGHETTI,Branded,400.0,18.0,10.0,58.0
+spaghetti carbonara,169845.0,"DENNY'S, spaghetti and meatballs",SR Legacy,170.0,7.84,8.52,15.5
+spaghetti carbonara,2706470.0,Spaghetti sauce with meat,Survey (FNDDS),90.0,5.94,4.36,6.54
+spaghetti carbonara,2706422.0,Spaghetti sauce with poultry,Survey (FNDDS),75.0,6.29,2.62,6.54
+spring rolls,2375659.0,"SPRING ROLL COMBO, SPRING ROLL",Branded,135.0,3.71,1.11,27.1
+spring rolls,2707782.0,"Roll, multigrain",Survey (FNDDS),263.0,9.6,6.0,44.6
+spring rolls,168889.0,"Wheat, hard red spring",SR Legacy,329.0,15.4,1.92,68.0
+spring rolls,2708701.0,"Egg roll, with shrimp",Survey (FNDDS),258.0,6.68,13.61,27.12
+spring rolls,2708686.0,Pizza rolls,Survey (FNDDS),345.0,9.19,10.5,53.39
+steak,2157166.0,STEAK,Branded,556.0,0.0,0.0,111.0
+steak,2706747.0,Pepper steak,Survey (FNDDS),145.0,11.88,9.12,4.34
+steak,2709752.0,Steak sauce,Survey (FNDDS),95.0,1.25,0.23,22.04
+steak,2706387.0,Steak teriyaki,Survey (FNDDS),198.0,28.86,8.25,1.94
+strawberry shortcake,957717.0,STRAWBERRY SHORTCAKE,Branded,274.0,2.96,13.3,31.1
+strawberry shortcake,2707896.0,"Cake, strawberry shortcake",Survey (FNDDS),214.0,3.31,4.73,40.09
+strawberry shortcake,2484272.0,"STRAWBERRY SHORTCAKE BARS, STRAWBERRY SHORTCAKE",Branded,266.0,3.12,12.5,35.9
+strawberry shortcake,2548656.0,"STRAWBERRY SHORTCAKE COOKIES, STRAWBERRY SHORTCAKE",Branded,500.0,7.14,17.9,71.4
+strawberry shortcake,2138191.0,"STRAWBERRY SHORTCAKE CUPCAKES, STRAWBERRY SHORTCAKE",Branded,380.0,1.41,18.3,52.1
+sushi,2708959.0,"Sushi, NFS",Survey (FNDDS),94.0,2.92,0.67,18.39
+sushi,2708972.0,"Sushi, topped with egg",Survey (FNDDS),119.0,7.32,5.23,10.25
+sushi,2708961.0,"Sushi roll, California",Survey (FNDDS),94.0,2.92,0.67,18.39
+sushi,2708971.0,"Sushi, topped with tuna",Survey (FNDDS),100.0,9.66,0.29,13.39
+sushi,2708965.0,Sushi roll tuna,Survey (FNDDS),97.0,7.4,0.26,15.3
+tacos,170736.0,"TACO BELL, Taco Salad",SR Legacy,710.0,6.69,9.17,15.1
+tacos,170733.0,"TACO BELL, Soft Taco with steak",SR Legacy,225.0,11.8,12.1,17.2
+tacos,2709740.0,Taco sauce,Survey (FNDDS),11.0,1.16,0.68,0.72
+tacos,2708529.0,"Taco, fish",Survey (FNDDS),275.0,11.62,15.29,22.99
+tacos,2708514.0,"Taco, NFS",Survey (FNDDS),246.0,15.31,13.56,15.62
+tiramisu,2705702.0,Tiramisu,Survey (FNDDS),353.0,5.65,23.86,29.44
+tiramisu,2677409.0,TIRAMISU,Branded,235.0,3.53,11.8,29.4
+waffles,2093968.0,WAFFLES,Branded,300.0,2.86,10.0,48.6
+beef_carpaccio,,Beef carpaccio (thinly sliced raw beef appetizer),Manual,235.0,13.0,15.0,2.0
+guacamole,,Guacamole (avocado dip),Manual,160.0,2.0,14.0,9.0
+prime_rib,,Prime rib (roast beef rib cut),Manual,318.0,27.0,24.0,0.0
+samosa,,Samosa (Indian fried pastry with potato filling),Manual,262.0,5.0,14.0,28.0
+tacos,,Tacos (Mexican tortilla with meat and vegetables),Manual,211.0,10.0,9.0,23.0
+takoyaki,,Takoyaki (Japanese octopus dough balls),Manual,180.0,6.0,8.0,18.0
+beef_carpaccio,,Beef carpaccio (thinly sliced raw beef appetizer),Manual,235.0,13.0,15.0,2.0
+guacamole,,Guacamole (avocado dip),Manual,160.0,2.0,14.0,9.0
+prime_rib,,Prime rib (roast beef rib cut),Manual,318.0,27.0,24.0,0.0
+samosa,,Samosa (Indian fried pastry with potato filling),Manual,262.0,5.0,14.0,28.0
+tacos,,Tacos (Mexican tortilla with meat and vegetables),Manual,211.0,10.0,9.0,23.0
+takoyaki,,Takoyaki (Japanese octopus dough balls),Manual,180.0,6.0,8.0,18.0
+beef_carpaccio,,Beef carpaccio (thinly sliced raw beef appetizer),Manual,235.0,13.0,15.0,2.0
+guacamole,,Guacamole (avocado dip),Manual,160.0,2.0,14.0,9.0
+prime_rib,,Prime rib (roast beef rib cut),Manual,318.0,27.0,24.0,0.0
+samosa,,Samosa (Indian fried pastry with potato filling),Manual,262.0,5.0,14.0,28.0
+tacos,,Tacos (Mexican tortilla with meat and vegetables),Manual,211.0,10.0,9.0,23.0
+takoyaki,,Takoyaki (Japanese octopus dough balls),Manual,180.0,6.0,8.0,18.0
