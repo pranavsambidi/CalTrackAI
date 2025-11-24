@@ -1,27 +1,16 @@
-# Core Libraries
-numpy==1.26.4
-pandas==2.2.2
-scikit-learn==1.5.2
-seaborn==0.13.2
-matplotlib==3.9.2
-
-# Deep Learning
-tensorflow==2.17.0
-torch==2.4.1
-torchvision==0.19.1
-
-# Fairness, Privacy, and Explainability Tools
-fairlearn==0.11.0
-diffprivlib==0.6.2
-shap==0.45.0
-nannyml==0.13.1
-
-# Supporting Tools for APIs and Requests
-requests==2.32.3
-
-# Utilities
-tqdm==4.66.5
-notebook==7.2.2
-
-# Optional Visualization and Experiment Tracking
-plotly==5.24.1
+numpy
+pandas
+scikit-learn
+seaborn
+matplotlib
+tensorflow
+torch
+torchvision
+fairlearn
+diffprivlib
+shap
+nannyml
+requests
+tqdm
+notebook
+plotly
