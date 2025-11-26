@@ -44,19 +44,20 @@ This repository demonstrates the **full lifecycle of an AI system**—from model
 │   │   │
 │   │   ├── 📁 model
 │   │   │   └── resnet50_food101_final.keras   # Trained Food-101 model
-│   │   ├── 📁 training-test
+│   │   ├── 📁 training-testing
 │   │   │   ├── 📁 notebooks
-│   |   |         ├── 📁 Experiments/       
-│   │   |         |   ├── EfficientNetB0.ipynb
-│   │   |         |   ├── EfficientNetB3.ipynb
-│   │   |         |   ├── experimental_model.ipynb
-│   │   |         |   ├── MobileNetV2.ipynb
-│   │   |         |   └── model1(poor accuracy).ipynb
-│   │   |         |
-│   |   |         ├── api_integration.ipynb        # Final USDA API pipeline & CSV generation
-│   |   |         ├── data_preparation.ipynb       # Cleaning, preprocessing & dataset preparation
-│   |   |         ├── ResNet50.ipynb               # Training notebook for final ResNet50 model
-│   |   |         ├── ResNet50_Testing.ipynb       # Testing & evaluation notebook
+│   |   |   |      ├── 📁 Experiments/       
+│   │   |   |      |   ├── EfficientNetB0.ipynb
+│   │   |   |      |   ├── EfficientNetB3.ipynb
+│   │   |   |      |   ├── experimental_model.ipynb
+│   │   |   |      |   ├── MobileNetV2.ipynb
+│   │   |   |      |   └── model1(poor accuracy).ipynb
+│   │   |   |      |
+│   |   |   |      ├── api_integration.ipynb        # Final USDA API pipeline & CSV generation
+│   |   |   |      ├── data_preparation.ipynb       # Cleaning, preprocessing & dataset preparation
+│   |   |   |      ├── ResNet50.ipynb               # Training notebook for final ResNet50 model
+│   |   |   |      └── ResNet50_Testing.ipynb       # Testing & evaluation notebook
+|   |   |   | 
 │   │   └── 📁 uploads
 │   │       └── (temp inference images auto-deleted after prediction)
 │   │
