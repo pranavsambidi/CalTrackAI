@@ -25,20 +25,10 @@ This repository demonstrates the **full lifecycle of an AI system**—from model
 │   ├── 📁 grafana-data       # Grafana dashboards & persistent volume data
 │   └── prometheus.yml        # Prometheus scrape configuration (backend metrics endpoint)
 │
-├── 📁 notebooks
-│   ├── 📁 Experiments/       
-│   │   ├── EfficientNetB0.ipynb
-│   │   ├── EfficientNetB3.ipynb
-│   │   ├── experimental_model.ipynb
-│   │   ├── MobileNetV2.ipynb
-│   │   └── model1(poor accuracy).ipynb
-│   │
-│   ├── api_integration.ipynb        # Final USDA API pipeline & CSV generation
-│   ├── data_preparation.ipynb       # Cleaning, preprocessing & dataset preparation
-│   ├── ResNet50.ipynb               # Training notebook for final ResNet50 model
-│   ├── ResNet50_Testing.ipynb       # Testing & evaluation notebook
-│   └── risk_trustworthiness.ipynb   # Trustworthiness analysis notebook
-│
+│── 📁 Risk_Management_Strategies
+|    └── risk_management.ipynb   # Trustworthiness analysis notebook
+|
+|
 ├── 📁 src
 │   ├── main.py                       # System launcher (runs docker-compose programmatically)
 │   │
@@ -54,7 +44,19 @@ This repository demonstrates the **full lifecycle of an AI system**—from model
 │   │   │
 │   │   ├── 📁 model
 │   │   │   └── resnet50_food101_final.keras   # Trained Food-101 model
-│   │   │
+│   │   ├── 📁 training-test
+│   │   │   ├── 📁 notebooks
+│   |   |         ├── 📁 Experiments/       
+│   │   |         |   ├── EfficientNetB0.ipynb
+│   │   |         |   ├── EfficientNetB3.ipynb
+│   │   |         |   ├── experimental_model.ipynb
+│   │   |         |   ├── MobileNetV2.ipynb
+│   │   |         |   └── model1(poor accuracy).ipynb
+│   │   |         |
+│   |   |         ├── api_integration.ipynb        # Final USDA API pipeline & CSV generation
+│   |   |         ├── data_preparation.ipynb       # Cleaning, preprocessing & dataset preparation
+│   |   |         ├── ResNet50.ipynb               # Training notebook for final ResNet50 model
+│   |   |         ├── ResNet50_Testing.ipynb       # Testing & evaluation notebook
 │   │   └── 📁 uploads
 │   │       └── (temp inference images auto-deleted after prediction)
 │   │
@@ -62,7 +64,7 @@ This repository demonstrates the **full lifecycle of an AI system**—from model
 │       ├── app.py                    # Streamlit interface for predictions, charts & feedback
 │       └── requirements.txt          # Frontend Python dependencies
 │
-├── 📁 trained_models                  # trained models and experiment outputs
+├── 📁 Other_Trained_Models                  # trained models and experiment outputs
 │
 ├── 📁 videos
 │   └── CalTrackAI_Demo.mov           # Full deployment + monitoring demonstration video
@@ -72,7 +74,6 @@ This repository demonstrates the **full lifecycle of an AI system**—from model
 └── requirements.txt                  # Global environment dependencies
 
 ```
-
 ---
 
 # **How to Run the Entire System**
